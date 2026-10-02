@@ -1,0 +1,52 @@
+*{
+  font-family: 궁서체;
+}
+   h1 {
+         color:blue; 
+         background-color:yellow;
+         border:2px solid red;
+         padding:20px;
+         border-radius:50px;
+         box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+       }
+
+      p {
+        font-weight:bold;
+        text-align:center;
+      }
+
+    li{
+      text-decoration:underline; 
+    }
+h1#next {
+  background-color:skyblue;
+
+#later{
+  color:gray;
+}
+
+.inner{
+  text-decaration:nane;
+  color:gray;
+}
+
+#later, .inner{
+  font-weight:boid;
+}
+
+  h3 div {
+    color:red;
+  }
+h3 > div {
+  color:blue;
+}
+
+  h1:hover{
+    background-color:
+  }
+
+
+
+
+
+
